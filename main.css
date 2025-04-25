@@ -18,9 +18,9 @@ p {
 th, td { 
   padding: 8px; 
   text-align: left; 
-  border-bottom: 1px solid gray80; 
+  border-bottom: 1px solid gray; 
   font-family: Arial 
 } 
- tr:nth-child(odd) {background-color:#f2f2f2;}
+ tr:nth-child(odd) {background-color:light-gray}
 
 
